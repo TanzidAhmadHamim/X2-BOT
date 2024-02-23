@@ -4,7 +4,7 @@
     "description": "simple messenger bot",
     "main": "",
     "scripts": {
-        "start": "node --trace-warnings --use_strict --async-stack-traces Nayan/catalogs/Nayana.js",
+        "start": "node --trace-warnings --use_strict --async-stack-traces Hamim/catalogs/Hamima.js",
         "login": "node login",
         "test": "node --trace-warnings --use_strict --async-stack-traces main"
     },
