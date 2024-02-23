@@ -1,13 +1,27 @@
 {
-    "name": "X2-BOT",
-    "version": "5.1.7",
-    "description": "simple messenger bot",
-    "main": "",
-    "scripts": {
-        "start": "node --trace-warnings --use_strict --async-stack-traces Hamim/catalogs/Hamima.js",
-        "login": "node login",
-        "test": "node --trace-warnings --use_strict --async-stack-traces main"
-    },
+	"name": "x2bot",
+	"version": "9.7.5",
+	"description": "A simple Facebook Messenger Bot made by me(CatalizCS) and my brother SpermLord.",
+	"main": "H4M1MX2.js",
+	"scripts": {
+		"start": "node index.js",
+		"login": "node login",
+		"test": "node --trace-warnings --use_strict --async-stack-traces mirai"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/TanzidAhmadHamim/X2bot0.1"
+	},
+	"keywords": [
+		"bot",
+		"facebook",
+		"projectmirai",
+		"messenger",
+		"H4M1MX2",
+		"catalizcs",
+		"spermlord",
+		" x2pr0ject"
+	],
     "author": "Hamim",
     "license": "GPL-3.0",
     "dependencies": {
