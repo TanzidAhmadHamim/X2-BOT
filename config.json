@@ -1,0 +1,285 @@
+{
+    "language": "en",
+    "keyActive": "100080456630885",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "autoClean": false,
+    "commandDisabled": [
+        "",
+        "",
+        ""
+    ],
+    "eventDisabled": [],
+    "EMAIL": "hamimhosnex@gmail.com",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "BOTNAME": "✘2 🩷🪽",
+    "PREFIX": "/",
+    "ADMINBOT": [
+        "100080456630885",
+        "100083267280269",
+        "",
+        "100085768376139",
+        "100053660923670",
+        "100077656598471",
+        "100038373847963",
+        "100091913741855",
+        "100069179687793",
+        "100088425487809",
+        "100079989396447",
+        "100088425487809",
+        "100078767378251",
+        "100080419553822",
+        "100069838540120",
+        "100082876674428",
+        "100086174034196",
+        "100092413080601",
+        "100090043659515",
+        "100065445284007",
+        "61550691880141",
+        "100095432010016",
+        "100069101771830",
+        "100093172627987",
+        "100089571185740",
+        "100042023993065",
+        "100083933886531",
+        "61551517100594",
+        "100061525402787",
+        "100095365447941",
+        "100089690839395",
+        "100058894067427",
+        "100034510621421",
+        "100043455154022",
+        "100005881964828",
+        "100071575183469",
+        "100091785311095",
+        "100000768468627",
+        "100071009500533",
+        "100079283354255",
+        "61551578672100",
+        "100005607185385",
+        "100075290587473",
+        "100018563573996",
+        "100090728443341",
+        "100062300287570",
+        "100084632946436",
+        "100012304818721",
+        "100089696990746",
+        "61550479280179",
+        "100092413080601",
+        "100008202462381",
+        "100091242260739",
+        "100089548060661",
+        "61552570163565",
+        "100000477174089",
+        "100095432010016",
+        "100092016494322",
+        "100068459115403",
+        "100085873562969",
+        "100017086088787",
+        "100022924845870",
+        "61550009932916",
+        "100090427376986",
+        "100038098591570",
+        "61551841097253",
+        "61551201946236",
+        "100083575885435",
+        "100069773396079",
+        "100042552698671",
+        "100086454485924",
+        "100040890413270",
+        "100094752136558",
+        "100046503602533",
+        "100081963062794",
+        "100080238112828",
+        "61555412640789",
+        "100091273520024"
+    ],
+    "GOD": [
+        "100080456630885",
+        "100083267280269",
+        "100053660923670",
+        "100012304818721",
+        "100069101771830"
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "ADD_FUNCTION": " true",
+    "DEL_FUNCTION": " true",
+    "DESIGN": {
+        "Title": "H4M1M",
+        "Theme": "Flower",
+        "Admin": "H4M1M",
+        "Setup": {
+            "Title": "Design your own custom terminal Titlebar for the title and must contain no numbers",
+            "Theme": "Customize your console effortlessly with various theme colors. Explore Aqua, Fiery, Blue, Pink, Red, Retro, Sunlight, Teen, Summer, Flower, Ghost, and Hacker themes to enhance your terminal logs."
+        }
+    },
+    "APPSTATEPATH": "x2state.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": false,
+        "userAgent": "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 OPR/84.0.4316.21"
+    },
+    "version": "10.2.14",
+    "help": {
+        "autoUnsend": "",
+        "delayUnsend": 60
+    },
+    "adminUpdate": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "log": {
+        "enable": true
+    },
+    "rankup": {
+        "autoUnsend": "",
+        "unsendMessageAfter": 5
+    },
+    "work": {
+        "cooldownTime": 1200000
+    },
+    "youtube-video": {
+        "YOUTUBE_API": "AIzaSyAV1Ob0n_87tZSmCMorTGE-jHVrAvnXcIM"
+    },
+    "linkword": {
+        "APIKEY": ""
+    },
+    "ytb-video": {
+        "YOUTUBE_API": "AIzaSyAV1Ob0n_87tZSmCMorTGE-jHVrAvnXcIM"
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "luật bot": {
+        "autoUnsend": true,
+        "delayUnsend": 30
+    },
+    "lbot": {
+        "autoUnsend": true,
+        "delayUnsend": 30
+    },
+    "work-beta": {
+        "cooldownTime": 1200000
+    },
+    "job-beta": {
+        "cooldownTime": 5000
+    },
+    "job": {
+        "cooldownTime": 5000
+    },
+    "sauce": {
+        "SAUCENAO_API": "a2430f4a078a4782540142bfad2551f3384bd20f"
+    },
+    "weather": {
+        "OPEN_WEATHER": "b7f1db5959a1f5b2a079912b03f0cd96"
+    },
+    "simsimi": {
+        "APIKEY": "Meew_Ov8SwxqVjUMUJafvxWAsdeac7YAUnr"
+    },
+    "sim": {
+        "APIKEY": "Meew_Ov8SwxqVjUMUJafvxWAsdeac7YAUnr"
+    },
+    "slap": {
+        "APIKEY": "Meew_Ov8SwxqVjUMUJafvxWAsdeac7YAUnr"
+    },
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 19310000
+    },
+    "manslap": {
+        "APIKEY": "Meew_Ov8SwxqVjUMUJafvxWAsdeac7YAUnr"
+    },
+    "play": {
+        "YOUTUBE_API": "AIzaSyBtiD442srhczDpcg8xbhinP423BeUFXB8",
+        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+    },
+    "video": {
+        "YOUTUBE_API": "AIzaSyBtiD442srhczDpcg8xbhinP423BeUFXB8"
+    },
+    "testcovid": {
+        "APIKEY": "Meew_kB5wRAlpHhrAj0GhRzmmLHesvvTbXE"
+    },
+    "fish": {
+        "cooldownTime": 1000000
+    },
+    "simv2": {
+        "APIKEY": "mzkVip_Simsimi"
+    },
+    "cave": {
+        "cooldownTime": 1000000
+    },
+    "simvoice": {
+        "APIKEY": "Meew_hTrAe8Ipec8EsSRsQXoMO7v0XaPgY0"
+    },
+    "sing": {
+        "YOUTUBE_API": "AIzaSyBtiD442srhczDpcg8xbhinP423BeUFXB8",
+        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+    },
+    "slapv2": {
+        "APIKEY": ""
+    },
+    "videov2": {
+        "YOUTUBE_API": "AIzaSyDEE1-zZSRVI8lTaQOVsIAQFgL-_BJKvhk"
+    },
+    "help2": {
+        "autoUnsend": true,
+        "delayUnsend": 300
+    },
+    "god": {
+        "enable": true
+    },
+    "bannerbw": {
+        "APIKEY": "ntkhang"
+    },
+    "sing2": {
+        "YOUTUBE_API": "AIzaSyCOTZTEzTydcXuetconkxZUjEXKiPMDpG0",
+        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+    },
+    "about": {
+        "autoUnsend": true,
+        "delayUnsend": 60
+    },
+    "music": {
+        "YOUTUBE_API": "AIzaSyAwzbcb-6QAzgZtl4qf3Z2GhQ3mqrbbMR8"
+    },
+    "paste": {
+        "PastebinAPI": "U2g85byfTiSJJ4N6NWSP17gPAROVuZXo"
+    },
+    "sing3": {
+        "YOUTUBE_API": "AIzaSyCiQNfgwUXihv_tAtgJnuBYmxgvLHv4ipE"
+    },
+    "command": {
+        "autoUnsend": true,
+        "delayUnsend": 30
+    },
+    "allpic": {
+        "cooldownTime": 1200000
+    },
+    "train": {
+        "APIKEY": "Meew_Ov8SwxqVjUMUJafvxWAsdeac7YAUnr"
+    },
+    "song": {
+        "YOUTUBE_API": "AIzaSyAwzbcb-6QAzgZtl4qf3Z2GhQ3mqrbbMR8"
+    },
+    "helf": {
+        "autoUnsend": "",
+        "delayUnsend": 20
+    },
+    "leave": {
+        "status": false,
+        "number": 0
+    },
+    "yt-v": {
+        "YOUTUBE_API": "AIzaSyBFNMIC7pTPGo2zBxE8JrF0oPpOpxV6KU8"
+    }
+}
