@@ -25,6 +25,7 @@
     "author": "Hamim",
     "license": "GPL-3.0",
     "dependencies": {
+       "@miraipr0ject/assets": "^1.0.9",
         "aes-js": "latest",
         "axios": "^1.4.0",
         "bluebird": "^2.11.0",
