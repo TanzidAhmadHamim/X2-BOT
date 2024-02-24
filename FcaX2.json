@@ -20,7 +20,7 @@
 	"Websocket_Extension": {
 		"Status": false,
 		"ResetData": false,
-		"AppState_Path": "x2state.json"
+		"AppState_Path": "appstate.json"
 	},
 	"HTML": {
 		"HTML": true,
